@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeUp_3120 리모컨", "CodeUp_3120 리모컨\CodeUp_3120 리모컨.vcxproj", "{4DF3F654-A37B-4ABA-A42B-A317E961C713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Debug|x64.ActiveCfg = Debug|x64
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Debug|x64.Build.0 = Debug|x64
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Debug|x86.Build.0 = Debug|Win32
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Release|x64.ActiveCfg = Release|x64
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Release|x64.Build.0 = Release|x64
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Release|x86.ActiveCfg = Release|Win32
+		{4DF3F654-A37B-4ABA-A42B-A317E961C713}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF72A5D1-AF0E-4B78-A8BD-75B5D83ECC37}
+	EndGlobalSection
+EndGlobal
